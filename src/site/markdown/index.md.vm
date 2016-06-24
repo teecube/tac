@@ -1,0 +1,9 @@
+#set($h1 = '#')
+#set($h2 = '##')
+#set($h3 = '###')
+#set($h4 = '####')
+
+${tacDisplayedName} is a set of advanced components to code applications faster.
+
+[Archetypes](${siteDisplayURL}/${tacURLBase}/archetypes/index.html) are the best
+way to get started on new or existing projects.
