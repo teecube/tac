@@ -26,6 +26,9 @@
 			</p>
 		]]></archetypeAdditionalHTML>
 		<archetypeAdditionalArguments>-DticBW6MavenVersion=${ticBW6MavenVersion}</archetypeAdditionalArguments>
+
+		<timestamp>${maven.build.timestamp}</timestamp>
+		<maven.build.timestamp.format>yyyyMMddHHmmss</maven.build.timestamp.format>
 	</properties>
 
 </project>

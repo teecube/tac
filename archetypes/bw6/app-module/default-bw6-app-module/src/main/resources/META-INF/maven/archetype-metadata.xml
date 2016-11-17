@@ -23,6 +23,9 @@
         <requiredProperty key="hashSymbol">
             <defaultValue>#</defaultValue>
         </requiredProperty>
+        <requiredProperty key="timestamp">
+            <defaultValue>${timestamp}</defaultValue>
+        </requiredProperty>
 	</requiredProperties>
 	<fileSets>
 		<fileSet encoding="UTF-8" filtered="true" packaged="false">
