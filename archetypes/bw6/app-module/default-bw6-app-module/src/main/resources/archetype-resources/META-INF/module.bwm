@@ -9,7 +9,7 @@
   <sca:property xmi:id="_vAuiwAqsEeWbwKcezqehSA" name="BW.APPSPACE.NAME" type="XMLSchema:string" scalable="true"/>
   <sca:property xmi:id="_vA0pYAqsEeWbwKcezqehSA" name="BW.DEPLOYMENTUNIT.TYPE" type="XMLSchema:string" scalable="true"/>
   <sca:property xmi:id="_vA6I8AqsEeWbwKcezqehSA" name="BW.MODULE.NAME" type="XMLSchema:string" scalable="true"/>
-  <sca:component xmi:id="_40OiUNofEeWNV4w1blZw1Q" name="ComponentProcess" compositeext:version="${bundleVersion}">
+  <sca:component xmi:id="_40OiUNofEeWNV4w1blZw1Q" name="${artifactId}.ComponentProcess" compositeext:version="${bundleVersion}">
     <scaext:implementation xsi:type="BW:BWComponentImplementation" xmi:id="_40QXgNofEeWNV4w1blZw1Q" processName="${artifactId}.Process"/>
   </sca:component>
 </sca:composite>
