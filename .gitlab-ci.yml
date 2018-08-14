@@ -8,14 +8,14 @@ test:
 
 site:
     script:
-        - mvn clean site-deploy -P t3-snapshot
+        - mvn clean site-deploy -N -P t3-snapshot
     except:
         - tags
 
 site-redeploy:
     script:
-        - mvn clean site-deploy -P t3-archive
-        - mvn clean site-deploy -P t3-release
+        - mvn clean site-deploy -N -P t3-archive
+        - mvn clean site-deploy -N -P t3-release
     only:
         - tags
 
