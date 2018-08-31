@@ -7,7 +7,6 @@
 		<version>0.0.2-SNAPSHOT</version>
 	</parent>
 
-	<groupId>io.teecube.tac</groupId>
 	<artifactId>archetypes</artifactId>
 	<packaging>pom</packaging>
 

@@ -5,7 +5,6 @@
 		<groupId>io.teecube.tac</groupId>
 		<artifactId>archetypes</artifactId>
 		<version>0.0.2-SNAPSHOT</version>
-		<relativePath>../../..</relativePath>
 	</parent>
 
 	<groupId>io.teecube.tac.archetypes</groupId>

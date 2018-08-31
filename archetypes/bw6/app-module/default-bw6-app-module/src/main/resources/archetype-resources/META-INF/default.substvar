@@ -8,7 +8,6 @@
 			<serviceSettable>false</serviceSettable>
 			<type>String</type>
 			<isOverride>false</isOverride>
-			<modTime>1433417271148</modTime>
 		</globalVariable>
 		<globalVariable>
 			<name>BW.DOMAIN.NAME</name>
@@ -17,7 +16,6 @@
 			<serviceSettable>false</serviceSettable>
 			<type>String</type>
 			<isOverride>false</isOverride>
-			<modTime>1433417271148</modTime>
 		</globalVariable>
 		<globalVariable>
 			<name>BW.HOST.NAME</name>
@@ -26,7 +24,6 @@
 			<serviceSettable>false</serviceSettable>
 			<type>String</type>
 			<isOverride>false</isOverride>
-			<modTime>1433417271148</modTime>
 		</globalVariable>
 		<globalVariable>
 			<name>BW.MODULE.VERSION</name>
@@ -35,7 +32,6 @@
 			<serviceSettable>false</serviceSettable>
 			<type>String</type>
 			<isOverride>false</isOverride>
-			<modTime>1433417271148</modTime>
 		</globalVariable>
 		<globalVariable>
 			<name>BW.DEPLOYMENTUNIT.NAME</name>
@@ -44,7 +40,6 @@
 			<serviceSettable>false</serviceSettable>
 			<type>String</type>
 			<isOverride>false</isOverride>
-			<modTime>1433417271148</modTime>
 		</globalVariable>
 		<globalVariable>
 			<name>BW.DEPLOYMENTUNIT.VERSION</name>
@@ -53,7 +48,6 @@
 			<serviceSettable>false</serviceSettable>
 			<type>String</type>
 			<isOverride>false</isOverride>
-			<modTime>1433417271148</modTime>
 		</globalVariable>
 		<globalVariable>
 			<name>BW.APPSPACE.NAME</name>
@@ -62,7 +56,6 @@
 			<serviceSettable>false</serviceSettable>
 			<type>String</type>
 			<isOverride>false</isOverride>
-			<modTime>1433417271148</modTime>
 		</globalVariable>
 		<globalVariable>
 			<name>BW.DEPLOYMENTUNIT.TYPE</name>
@@ -71,7 +64,6 @@
 			<serviceSettable>false</serviceSettable>
 			<type>String</type>
 			<isOverride>false</isOverride>
-			<modTime>1433417271148</modTime>
 		</globalVariable>
 		<globalVariable>
 			<name>BW.MODULE.NAME</name>
@@ -80,7 +72,6 @@
 			<serviceSettable>false</serviceSettable>
 			<type>String</type>
 			<isOverride>false</isOverride>
-			<modTime>1433417271148</modTime>
 		</globalVariable>
 	</globalVariables>
 </repository>

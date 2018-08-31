@@ -16,6 +16,9 @@
 				<artifactId>tic-bw6</artifactId>
 				<version>${ticBW6MavenVersion}</version>
 				<extensions>true</extensions>
+				<configuration>
+					<bw6MinimumRequiredVersion>6.5.0</bw6MinimumRequiredVersion>
+				</configuration>
 			</plugin>
 		</plugins>
 	</build>
